@@ -177,7 +177,8 @@ a:focus {
 }
 
 .navbar-toggler {
-  background-color: rgba(255, 255, 255, 0.8); /* Mejora la visibilidad del botón en pantallas pequeñas */
+  /* background-color: rgba(255, 255, 255, 0.8); */
+  /* background-color: #493053; */
 }
 
 .custom_nav-container .navbar-nav {
@@ -299,6 +300,18 @@ a:focus {
       -ms-flex-align: center;
           align-items: center;
 }
+
+.carousel {
+  display: block !important; /* Asegura que el carousel esté visible */
+}
+
+/* .hero_bg_box {
+  background-image: url('images/bam-full-logo.png');
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100vh;
+} */
 
 .slider_section #customCarousel1 {
   width: 100%;

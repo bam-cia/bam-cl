@@ -7,12 +7,16 @@
     min-height: auto;
   }
 
-  .hero_area {
+  /* .hero_area {
     background: linear-gradient(130deg, #231a6f, #0f054c);
-  }
+  } */
 
-  .hero_area .hero_bg_box {
+  /* .hero_area .hero_bg_box {
     display: none;
+  } */
+
+  .navbar-toggler {
+    margin-left: auto;
   }
 
   .slider_section {
@@ -20,8 +24,10 @@
   }
 
   .custom_nav-container .navbar-nav {
-    padding-top: 15px;
+    /* padding-top: 15px; */
     align-items: center;
+    font-size: 8px;
+    font-style: bold;
   }
 
 
