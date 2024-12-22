@@ -1,7 +1,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
-<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800px" height="800px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve" fill="#000000">
+<svg width="800px" height="800px" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g id="SVGRepo_bgCarrier" stroke-width="0"/>
 <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"/>
-<g id="SVGRepo_iconCarrier"> <g> <path fill="#394240" d="M60,32c0-2.211-1.789-4-4-4H44V4c0-2.211-1.789-4-4-4H24c-2.211,0-4,1.789-4,4v12H8c-2.211,0-4,1.789-4,4 v44h56V32z M20,56h-8V24h8V56z M36,32v24h-8V20V8h8V32z M52,56h-8V36h8V56z"/> <rect x="12" y="24" fill="#408372" width="8" height="32"/> <rect x="28" y="8" fill="#45AAB8" width="8" height="48"/> <rect x="44" y="36" fill="#8D5DAC" width="8" height="20"/> </g> </g>
+<g id="SVGRepo_iconCarrier"> <rect width="48" height="48" fill="white" fill-opacity="0.01"/> <path d="M41 13.9997L24 4L7 13.9997L7 33.9998L24 44L41 33.9998V13.9997Z" fill="#232951" stroke="#232951" stroke-width="4" stroke-linejoin="round"/> <path d="M24 22V30" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/> <path d="M32 18V30" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16 26V30" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/> </g>
 </svg>
